@@ -2,8 +2,16 @@ name: "our-website"
 navbar:
   title: "Our Collaborative Website"
   left:
-    - text: "Cars"
+    - text: "Dogs and Flowers"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Answers"
+      href: assignment_1.html
 output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
