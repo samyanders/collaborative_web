@@ -12,6 +12,7 @@ output_dir: "."
 output:
   html_document:
     theme: cerulean
+    theme: minty
     highlight: textmate
     toc: true 
     toc_float: true 
