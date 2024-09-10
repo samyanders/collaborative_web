@@ -10,9 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## This is our website
-
-
-## This is our website
 ![](https://cdn.mos.cms.futurecdn.net/wEwnGwKBhcSpTb2NjA9DJ8.jpg)
 
 ## poppy
