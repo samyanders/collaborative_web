@@ -9,9 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<<<<<<< HEAD
-## This is our website
-=======
 
+## This is our website
 ![](https://cdn.mos.cms.futurecdn.net/wEwnGwKBhcSpTb2NjA9DJ8.jpg)
 >>>>>>> 68d78728451eae6adb813899b327dfe20e07b851
+
+## poppy
+![](poppy.jpg)
